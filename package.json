@@ -1,5 +1,5 @@
 {
-  "name": "jira-exporter",
+  "name": "dssc-seminars-bigdataviz-jira2gdf",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/javierjeronimo/test-jira-exporter.git"
+    "url": "git+ssh://git@github.com:javierjeronimo/dssc-seminars-bigdataviz-jira2gdf.git"
   },
   "author": "Javier Jerónimo Suárez <javier@jeronimosuarez.es>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/javierjeronimo/test-jira-exporter/issues"
+    "url": "https://github.com/javierjeronimo/dssc-seminars-bigdataviz-jira2gdf/issues"
   },
-  "homepage": "https://github.com/javierjeronimo/test-jira-exporter#readme",
+  "homepage": "https://github.com/javierjeronimo/dssc-seminars-bigdataviz-jira2gdf#readme",
   "dependencies": {
     "jira-client": "^3.0.2"
   }
