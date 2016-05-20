@@ -1,0 +1,22 @@
+{
+  "name": "jira-exporter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/javierjeronimo/test-jira-exporter.git"
+  },
+  "author": "Javier Jerónimo Suárez <javier@jeronimosuarez.es>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javierjeronimo/test-jira-exporter/issues"
+  },
+  "homepage": "https://github.com/javierjeronimo/test-jira-exporter#readme",
+  "dependencies": {
+    "jira-client": "^3.0.2"
+  }
+}
